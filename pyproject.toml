@@ -2,6 +2,8 @@
 name = "dual-wordcloud"
 version = "0.1.0"
 requires-python = ">=3.12"
+readme = "README.md"
+license = { text = "MIT" }
 dependencies = [
     "wordcloud>=1.9.0",
     "matplotlib>=3.8.0",
